@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Supreme The North Face Studded Nuptse Jacket Red",
+        "precio": 235600,
+        "foto": "https://drops-ba.com/wp-content/uploads/2022/04/Supreme-The-North-Face-Studded-Nuptse-Jacket-Red.jpg",
+        "codigo": "wwFCtn264M",
+        "timestamp": 1669243422458,
+        "stock": 23,
+        "descripcion": "Supreme The North Face Studded Nuptse Jacket Red"
+    },
+    {
+        "id": 2,
+        "nombre": "Fear of God Essentials Hoodie Desert Taupe",
+        "precio": 75000,
+        "foto": "https://drops-ba.com/wp-content/uploads/2022/05/Fear-of-God-Essentials-Hoodie-Desert-Taupe.jpg",
+        "codigo": "ZYtYEhAj3P",
+        "timestamp": 1669243446152,
+        "stock": 16,
+        "descripcion": "Fear of God Essentials Hoodie Desert Taupe"
+    },
+    {
+        "id": 3,
+        "nombre": "OVO OG Owl Hoodie Black",
+        "precio": 122000,
+        "foto": "https://drops-ba.com/wp-content/uploads/2022/05/OVO-OG-Owl-Hoodie-Black.jpg",
+        "codigo": "3yqjWSaeVf",
+        "timestamp": 1669243433692,
+        "stock": 8,
+        "descripcion": "OVO OG Owl Hoodie Black"
+    }
+]
